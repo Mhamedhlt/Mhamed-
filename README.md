@@ -1,10 +1,10 @@
-# Mhamed-
+
 # Hi 👋, I'm M'HAMED HALATA!
 
 ### M1 Student in Applied Mathematics specializing in Quantitative Finance.
 
-[cite_start]I am an M1 Student in Applied Mathematics (MIGS), specializing in **Machine Learning** and **Stochastic Calculus**[cite: 4].
-[cite_start]I am currently seeking a **3-month internship in quantitative finance** starting June 2026[cite: 5].
+I am an M1 Student in Applied Mathematics (MIGS), specializing in **Machine Learning** and **Stochastic Calculus**.
+I am currently seeking a **3-month internship in quantitative finance** starting June 2026.
 
 ---
 
