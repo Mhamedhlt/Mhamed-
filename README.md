@@ -34,6 +34,6 @@ These projects demonstrate my expertise in stochastic modeling, machine learning
 
 ### 🔗 Connect With Me
 
-* **LinkedIn:** [Mhamed HALATA](www.linkedin.com/in/mhamed-halata-a62bb11aa)
+* **LinkedIn:** [Mhamed HALATA](https://www.linkedin.com/in/mhamed-halata-a62bb11aa/)
 * **Email:** halatamhamed01@gmail.com
 * **Languages:** French (Native), Arabic (Native), English (C1 TOEIC: 940/990)
