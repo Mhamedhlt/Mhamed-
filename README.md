@@ -3,7 +3,7 @@
 ### M1 Student in Applied Mathematics specializing in Quantitative Finance.
 
 I am an M1 Student in Applied Mathematics (MIGS), specializing in **Machine Learning** and **Stochastic Calculus**.
-I am currently seeking a **3-month internship in quantitative finance** starting June 2026.
+I am currently seeking a **one year apprenticeship in quantitative finance** starting September 2026.
 
 ---
 
